@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Computational Material Design | Samet Demir</title>
+    <link>https://sametd.github.io/tag/computational-material-design/</link>
+      <atom:link href="https://sametd.github.io/tag/computational-material-design/index.xml" rel="self" type="application/rss+xml" />
+    <description>Computational Material Design</description>
+    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><lastBuildDate>Wed, 27 Sep 2023 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>https://sametd.github.io/media/icon_hub8955ad7d4c58f870e4f1fa682ebbb67_124320_512x512_fill_lanczos_center_3.png</url>
+      <title>Computational Material Design</title>
+      <link>https://sametd.github.io/tag/computational-material-design/</link>
+    </image>
+    
+    <item>
+      <title>Hydrogen Storage in Trimetallic Borohydrides: a Crystal Structure Prediction and Ab Initio Molecular Dynamics Simulations Study</title>
+      <link>https://sametd.github.io/publication/tri-metallic/</link>
+      <pubDate>Wed, 27 Sep 2023 00:00:00 +0000</pubDate>
+      <guid>https://sametd.github.io/publication/tri-metallic/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>

@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>2D Structure Prediction | Samet Demir</title>
+    <link>https://sametd.github.io/tag/2d-structure-prediction/</link>
+      <atom:link href="https://sametd.github.io/tag/2d-structure-prediction/index.xml" rel="self" type="application/rss+xml" />
+    <description>2D Structure Prediction</description>
+    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><lastBuildDate>Sat, 27 Aug 2022 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>https://sametd.github.io/media/icon_hub8955ad7d4c58f870e4f1fa682ebbb67_124320_512x512_fill_lanczos_center_3.png</url>
+      <title>2D Structure Prediction</title>
+      <link>https://sametd.github.io/tag/2d-structure-prediction/</link>
+    </image>
+    
+    <item>
+      <title>2D-FFCASP—A New Approach for 2D Structure Prediction Applied to Self-Assemblies of DNA Bases</title>
+      <link>https://sametd.github.io/publication/2dffcasp/</link>
+      <pubDate>Sat, 27 Aug 2022 00:00:00 +0000</pubDate>
+      <guid>https://sametd.github.io/publication/2dffcasp/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>

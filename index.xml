@@ -1,0 +1,56 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Samet Demir</title>
+    <link>https://sametd.github.io/</link>
+      <atom:link href="https://sametd.github.io/index.xml" rel="self" type="application/rss+xml" />
+    <description>Samet Demir</description>
+    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><lastBuildDate>Thu, 19 Oct 2023 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>https://sametd.github.io/media/icon_hub8955ad7d4c58f870e4f1fa682ebbb67_124320_512x512_fill_lanczos_center_3.png</url>
+      <title>Samet Demir</title>
+      <link>https://sametd.github.io/</link>
+    </image>
+    
+    <item>
+      <title>Hydrogen Storage in Trimetallic Borohydrides: a Crystal Structure Prediction and Ab Initio Molecular Dynamics Simulations Study</title>
+      <link>https://sametd.github.io/publication/tri-metallic/</link>
+      <pubDate>Wed, 27 Sep 2023 00:00:00 +0000</pubDate>
+      <guid>https://sametd.github.io/publication/tri-metallic/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Stable and metastable crystal structures and ammonia dynamics in strontium chloride ammines</title>
+      <link>https://sametd.github.io/publication/sr/</link>
+      <pubDate>Mon, 18 Sep 2023 00:00:00 +0000</pubDate>
+      <guid>https://sametd.github.io/publication/sr/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>2D-FFCASP—A New Approach for 2D Structure Prediction Applied to Self-Assemblies of DNA Bases</title>
+      <link>https://sametd.github.io/publication/2dffcasp/</link>
+      <pubDate>Sat, 27 Aug 2022 00:00:00 +0000</pubDate>
+      <guid>https://sametd.github.io/publication/2dffcasp/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>FFCASP: A Massively Parallel Crystal Structure Prediction Algorithm</title>
+      <link>https://sametd.github.io/publication/ffcasp/</link>
+      <pubDate>Wed, 07 Apr 2021 00:00:00 +0000</pubDate>
+      <guid>https://sametd.github.io/publication/ffcasp/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title></title>
+      <link>https://sametd.github.io/admin/config.yml</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>https://sametd.github.io/admin/config.yml</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>

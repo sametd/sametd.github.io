@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Discovery of Energy Materials | Samet Demir</title>
+    <link>https://sametd.github.io/tag/discovery-of-energy-materials/</link>
+      <atom:link href="https://sametd.github.io/tag/discovery-of-energy-materials/index.xml" rel="self" type="application/rss+xml" />
+    <description>Discovery of Energy Materials</description>
+    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><lastBuildDate>Mon, 18 Sep 2023 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>https://sametd.github.io/media/icon_hub8955ad7d4c58f870e4f1fa682ebbb67_124320_512x512_fill_lanczos_center_3.png</url>
+      <title>Discovery of Energy Materials</title>
+      <link>https://sametd.github.io/tag/discovery-of-energy-materials/</link>
+    </image>
+    
+    <item>
+      <title>Stable and metastable crystal structures and ammonia dynamics in strontium chloride ammines</title>
+      <link>https://sametd.github.io/publication/sr/</link>
+      <pubDate>Mon, 18 Sep 2023 00:00:00 +0000</pubDate>
+      <guid>https://sametd.github.io/publication/sr/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>FFCASP: A Massively Parallel Crystal Structure Prediction Algorithm</title>
+      <link>https://sametd.github.io/publication/ffcasp/</link>
+      <pubDate>Wed, 07 Apr 2021 00:00:00 +0000</pubDate>
+      <guid>https://sametd.github.io/publication/ffcasp/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>
