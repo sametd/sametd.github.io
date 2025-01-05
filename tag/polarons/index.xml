@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Polarons | Samet Demir</title>
+    <link>https://sametd.github.io/tag/polarons/</link>
+      <atom:link href="https://sametd.github.io/tag/polarons/index.xml" rel="self" type="application/rss+xml" />
+    <description>Polarons</description>
+    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><lastBuildDate>Fri, 15 Mar 2024 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>https://sametd.github.io/media/icon_hub8955ad7d4c58f870e4f1fa682ebbb67_124320_512x512_fill_lanczos_center_3.png</url>
+      <title>Polarons</title>
+      <link>https://sametd.github.io/tag/polarons/</link>
+    </image>
+    
+    <item>
+      <title>Factors Affecting the Electron Conductivity in Single Crystal Li7La3Zr2O12 and Li7P3S11</title>
+      <link>https://sametd.github.io/publication/factors/</link>
+      <pubDate>Fri, 15 Mar 2024 00:00:00 +0000</pubDate>
+      <guid>https://sametd.github.io/publication/factors/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>

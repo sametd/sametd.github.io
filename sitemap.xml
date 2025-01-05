@@ -2,78 +2,106 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
-    <loc>http://localhost:1313/</loc>
+    <loc>https://sametd.github.io/publication-type/2/</loc>
+    <lastmod>2024-03-15T00:00:00+00:00</lastmod>
+    <changefreq>weekly</changefreq>
+  </url><url>
+    <loc>https://sametd.github.io/tag/cubic-llzo/</loc>
+    <lastmod>2024-03-15T00:00:00+00:00</lastmod>
+    <changefreq>weekly</changefreq>
+  </url><url>
+    <loc>https://sametd.github.io/tag/defects/</loc>
+    <lastmod>2024-03-15T00:00:00+00:00</lastmod>
+    <changefreq>weekly</changefreq>
+  </url><url>
+    <loc>https://sametd.github.io/tag/electron-conductivity/</loc>
+    <lastmod>2024-03-15T00:00:00+00:00</lastmod>
+    <changefreq>weekly</changefreq>
+  </url><url>
+    <loc>https://sametd.github.io/publication/factors/</loc>
+    <lastmod>2024-03-15T00:00:00+00:00</lastmod>
+    <changefreq>weekly</changefreq>
+  </url><url>
+    <loc>https://sametd.github.io/tag/lps/</loc>
+    <lastmod>2024-03-15T00:00:00+00:00</lastmod>
+    <changefreq>weekly</changefreq>
+  </url><url>
+    <loc>https://sametd.github.io/tag/polarons/</loc>
+    <lastmod>2024-03-15T00:00:00+00:00</lastmod>
+    <changefreq>weekly</changefreq>
+  </url><url>
+    <loc>https://sametd.github.io/publication_types/</loc>
+    <lastmod>2024-03-15T00:00:00+00:00</lastmod>
+    <changefreq>weekly</changefreq>
+  </url><url>
+    <loc>https://sametd.github.io/publication/</loc>
+    <lastmod>2024-03-15T00:00:00+00:00</lastmod>
+    <changefreq>weekly</changefreq>
+  </url><url>
+    <loc>https://sametd.github.io/tag/solid-state-electrolytes/</loc>
+    <lastmod>2024-03-15T00:00:00+00:00</lastmod>
+    <changefreq>weekly</changefreq>
+  </url><url>
+    <loc>https://sametd.github.io/tags/</loc>
+    <lastmod>2024-03-15T00:00:00+00:00</lastmod>
+    <changefreq>weekly</changefreq>
+  </url><url>
+    <loc>https://sametd.github.io/</loc>
     <lastmod>2023-10-19T00:00:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
   </url><url>
-    <loc>http://localhost:1313/publication-type/2/</loc>
+    <loc>https://sametd.github.io/tag/computational-material-design/</loc>
     <lastmod>2023-09-27T00:00:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
   </url><url>
-    <loc>http://localhost:1313/tag/computational-material-design/</loc>
+    <loc>https://sametd.github.io/tag/hydrogen-storage/</loc>
     <lastmod>2023-09-27T00:00:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
   </url><url>
-    <loc>http://localhost:1313/tag/hydrogen-storage/</loc>
+    <loc>https://sametd.github.io/publication/tri-metallic/</loc>
     <lastmod>2023-09-27T00:00:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
   </url><url>
-    <loc>http://localhost:1313/publication/tri-metallic/</loc>
-    <lastmod>2023-09-27T00:00:00+00:00</lastmod>
-    <changefreq>weekly</changefreq>
-  </url><url>
-    <loc>http://localhost:1313/publication_types/</loc>
-    <lastmod>2023-09-27T00:00:00+00:00</lastmod>
-    <changefreq>weekly</changefreq>
-  </url><url>
-    <loc>http://localhost:1313/publication/</loc>
-    <lastmod>2023-09-27T00:00:00+00:00</lastmod>
-    <changefreq>weekly</changefreq>
-  </url><url>
-    <loc>http://localhost:1313/tags/</loc>
-    <lastmod>2023-09-27T00:00:00+00:00</lastmod>
-    <changefreq>weekly</changefreq>
-  </url><url>
-    <loc>http://localhost:1313/tag/ammonia-storage-materials/</loc>
+    <loc>https://sametd.github.io/tag/ammonia-storage-materials/</loc>
     <lastmod>2023-09-18T00:00:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
   </url><url>
-    <loc>http://localhost:1313/tag/crystal-structure-prediction/</loc>
+    <loc>https://sametd.github.io/tag/crystal-structure-prediction/</loc>
     <lastmod>2023-09-18T00:00:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
   </url><url>
-    <loc>http://localhost:1313/tag/discovery-of-energy-materials/</loc>
+    <loc>https://sametd.github.io/tag/discovery-of-energy-materials/</loc>
     <lastmod>2023-09-18T00:00:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
   </url><url>
-    <loc>http://localhost:1313/publication/sr/</loc>
+    <loc>https://sametd.github.io/publication/sr/</loc>
     <lastmod>2023-09-18T00:00:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
   </url><url>
-    <loc>http://localhost:1313/tag/2d-structure-prediction/</loc>
+    <loc>https://sametd.github.io/tag/2d-structure-prediction/</loc>
     <lastmod>2022-08-27T00:00:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
   </url><url>
-    <loc>http://localhost:1313/tag/2d-structures-of-dna/</loc>
+    <loc>https://sametd.github.io/tag/2d-structures-of-dna/</loc>
     <lastmod>2022-08-27T00:00:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
   </url><url>
-    <loc>http://localhost:1313/publication/2dffcasp/</loc>
+    <loc>https://sametd.github.io/publication/2dffcasp/</loc>
     <lastmod>2022-08-27T00:00:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
   </url><url>
-    <loc>http://localhost:1313/publication/ffcasp/</loc>
+    <loc>https://sametd.github.io/publication/ffcasp/</loc>
     <lastmod>2021-04-07T00:00:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
   </url><url>
-    <loc>http://localhost:1313/tag/machine-learning/</loc>
+    <loc>https://sametd.github.io/tag/machine-learning/</loc>
     <lastmod>2021-04-07T00:00:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
   </url><url>
-    <loc>http://localhost:1313/admin/</loc>
+    <loc>https://sametd.github.io/admin/</loc>
     <changefreq>weekly</changefreq>
   </url><url>
-    <loc>http://localhost:1313/categories/</loc>
+    <loc>https://sametd.github.io/categories/</loc>
     <changefreq>weekly</changefreq>
   </url>
 </urlset>
